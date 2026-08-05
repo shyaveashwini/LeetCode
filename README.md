@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shyaveashwini/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shyaveashwini/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shyaveashwini/LeetCode/tree/master/0509-fibonacci-number) |
+| [2413-smallest-even-multiple](https://github.com/shyaveashwini/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/shyaveashwini/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
