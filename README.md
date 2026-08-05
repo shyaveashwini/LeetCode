@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shyaveashwini/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shyaveashwini/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shyaveashwini/LeetCode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shyaveashwini/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shyaveashwini/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shyaveashwini/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shyaveashwini/LeetCode/tree/master/0342-power-of-four) |
+## Hash Table
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
