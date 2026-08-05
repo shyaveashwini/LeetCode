@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shyaveashwini/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/shyaveashwini/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shyaveashwini/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shyaveashwini/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shyaveashwini/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shyaveashwini/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shyaveashwini/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/shyaveashwini/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shyaveashwini/LeetCode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
