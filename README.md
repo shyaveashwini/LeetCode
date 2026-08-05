@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shyaveashwini/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/shyaveashwini/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shyaveashwini/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shyaveashwini/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shyaveashwini/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shyaveashwini/LeetCode/tree/master/0509-fibonacci-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shyaveashwini/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/shyaveashwini/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Divide and Conquer
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shyaveashwini/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shyaveashwini/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
