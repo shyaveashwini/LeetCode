@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shyaveashwini/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shyaveashwini/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/shyaveashwini/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/shyaveashwini/LeetCode/tree/master/0169-majority-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
 |  |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shyaveashwini/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/shyaveashwini/LeetCode/tree/master/0389-find-the-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shyaveashwini/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/shyaveashwini/LeetCode/tree/master/0389-find-the-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -93,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/shyaveashwini/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shyaveashwini/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shyaveashwini/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shyaveashwini/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
