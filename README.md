@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shyaveashwini/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0389-find-the-difference](https://github.com/shyaveashwini/LeetCode/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -71,13 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shyaveashwini/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shyaveashwini/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/shyaveashwini/LeetCode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/shyaveashwini/LeetCode/tree/master/0389-find-the-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/shyaveashwini/LeetCode/tree/master/0389-find-the-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
