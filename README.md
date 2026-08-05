@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shyaveashwini/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shyaveashwini/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shyaveashwini/LeetCode/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/shyaveashwini/LeetCode/tree/master/0136-single-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyaveashwini/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shyaveashwini/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shyaveashwini/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shyaveashwini/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shyaveashwini/LeetCode/tree/master/0389-find-the-difference) |
