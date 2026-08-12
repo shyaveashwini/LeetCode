@@ -10,8 +10,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: Optional[TreeNode]
         """
-        left=0
-        right=len(nums)-1
+    
         def helper(left,right):
             if left>right:
                 return None
@@ -24,7 +23,7 @@ class Solution(object):
             
             return t
 
-        return helper(left,right)
+        return helper(0,len(nums)-1)
 
 
         
